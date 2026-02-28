@@ -1,20 +1,35 @@
 # Metamonism Method
 
-Metamonism Method is the methodological component of Wayward Metamonism.
+Metamonism Method is the methodological component of **Wayward Metamonism**.
 
-It provides a disciplined procedure for working with categories through structural isomorphisms rather than ontological claims.
+It provides a disciplined procedure for working with categories through structural isomorphisms rather than ontological assertions.
 
-The method does not assert what reality *is*.
-It structures how regimes may be described.
+The method does not state what reality *is*.  
+It defines how structural regimes may be analyzed.
 
 ---
 
-## 1. Foundational Principle
+## 1. Foundational Orientation
 
-Categories are not treated as substances.
+Categories are not treated as substances.  
 They are treated as structurally equivalent modes of organizing difference.
 
-The task is not to identify essences, but to detect isomorphic structures.
+The task is not to identify essences, but to detect invariant predicates and map their admissibility across domains.
+
+Metamonism replaces the question:
+
+> “What exists?”
+
+with:
+
+> “Which structural predicates are admissible in this regime?”
+
+A formal implementation of this methodological shift is presented in:
+
+**Myshko, A. (2026). _Predicative Isomorphism as Structural Method._**  
+Zenodo. https://doi.org/10.5281/zenodo.18816117  
+
+That paper demonstrates how structural predicates (Diff, Fix, Sym) generate regime differentiation without reification.
 
 ---
 
@@ -25,26 +40,32 @@ The task is not to identify essences, but to detect isomorphic structures.
 Replace substance-based claims with regime-based descriptions.
 
 Instead of:
-"What is X?"
+
+> “What is X?”
 
 Ask:
-"In which regime of organization does X appear?"
+
+> “Under which regime of organization does X appear?”  
+> “Which predicates are admissible in that regime?”
+
+This prevents ontological inflation and redirects inquiry toward structural conditions.
 
 ---
 
-### 2.2 Isomorphic Mapping
+### 2.2 Predicative Isomorphism
 
 Identify structural equivalences across domains.
 
-If two domains share:
+Two domains may be treated as structurally isomorphic if they share:
 
-- instability of symmetry
-- regime transitions
-- scale recursion
-- non-isolation
+- admissibility patterns of differentiation (Diff)
+- local stabilization (Fix)
+- symmetry conditions (Sym)
+- recursive reinforcement
+- instability under dissipation
 
-they may be treated as structurally isomorphic
-without asserting ontological identity.
+Isomorphism does not imply ontological identity.  
+It indicates structural correspondence under differing regimes.
 
 ---
 
@@ -53,39 +74,59 @@ without asserting ontological identity.
 When a stable configuration shifts:
 
 - do not search for hidden substances
-- describe the transition as a scale shift or structural reorganization
+- do not posit external causes as metaphysical grounds
+- describe the transition as a reconfiguration of predicate admissibility
+
+Transitions are structural reorganizations, not ontological replacements.
 
 ---
 
-### 2.4 Anti-Reification Discipline
+### 2.4 Recursive Stabilization
 
-Avoid transforming descriptive tools into ontological entities.
+Stability is not assumed; it must be structurally supported.
 
-Notation (123, 4, 567, 8) is structural,
-not metaphysical.
+Fix cannot become global in non-limiting regimes.
+
+Stable configurations persist only through recursive reinforcement (Rec) and are exposed to dissipation (Diss).
+
+Thus, the method treats stability as dynamic asymmetry, not equilibrium.
+
+---
+
+### 2.5 Anti-Reification Discipline
+
+Descriptive tools must not be converted into ontological entities.
+
+Notation systems (e.g., 123, 4, 567, 8) are structural indexing devices, not metaphysical claims.
+
+Conceptual clarity requires constant vigilance against reification.
 
 ---
 
 ## 3. Application Domains
 
-The method may be applied to:
+The method is domain-neutral and scale-invariant.
+
+It may be applied to:
 
 - physics (phase transitions, localization regimes)
-- cosmology (scale recursion)
-- biology (metastability and adaptation)
+- cosmology (scale recursion and structural gradients)
+- biology (metastability and adaptive cycles)
 - cognition (recursive self-reference)
 - social systems (structural instability and reorganization)
 
-The method remains domain-neutral.
+The method does not depend on domain-specific ontology.  
+It analyzes admissibility patterns across scales.
 
 ---
 
 ## 4. Methodological Constraints
 
-1. No absolute stabilization.
-2. No appeal to hidden substances.
-3. No claims of final explanatory closure.
-4. All stabilization is versioned and provisional.
+1. No absolute stabilization in non-limiting regimes.  
+2. No appeal to hidden substances.  
+3. No final explanatory closure.  
+4. All stabilization is provisional and versioned.  
+5. Limit-regimes (e.g., maximal symmetry) are defined structurally, not mystically.
 
 ---
 
@@ -93,9 +134,18 @@ The method remains domain-neutral.
 
 Reality is described through regime organization of difference.
 
-The method operates by identifying structural isomorphisms
-and mapping transitions without reifying them.
+The method operates by:
+
+- identifying minimal structural predicates,
+- mapping admissibility regimes,
+- detecting isomorphisms,
+- analyzing recursive stabilization and dissipation,
+- defining limit-cases without reification.
+
+Metamonism Method is not a metaphysical doctrine.  
+It is a structural analytic procedure.
 
 ---
 
-Status: Methodological layer of Wayward Metamonism.
+**Status:** Methodological layer of Wayward Metamonism.  
+**Formal implementation:** https://doi.org/10.5281/zenodo.18816117
